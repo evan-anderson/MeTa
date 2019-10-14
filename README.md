@@ -13,7 +13,7 @@ In our upcoming publication *Facilitating NMR Resonance Assignment with Metaboli
 ## File Summary
 
 ### Requirements and environment
-`requirements.txt` lists the Python packages used in this analysis, and `environment.yml` is the conda environment file which I used for all of the following Jupyter Notebooks.
+We used Python 3.7 for these analyses. `requirements.txt` lists the Python packages used in this analysis, and `environment.yml` is the conda environment file which I used for all of the following Jupyter Notebooks.
 
 ### Data processing, model selection, and validation
 **meta_documentation.ipynb**: Jupyter Notebook describing data preprocessing, model selection, and model validation.
